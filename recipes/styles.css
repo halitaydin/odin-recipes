@@ -47,6 +47,7 @@ li {
 }
 
 li:hover {
-  text-decoration: underline orange;
+  text-decoration: underline;
+  text-decoration-color: orange;
   cursor: crosshair;
 }
