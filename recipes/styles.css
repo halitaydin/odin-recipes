@@ -6,12 +6,6 @@ body {
   width: 500px;
 }
 
-@media screen and (min-width: 400px) {
-  body {
-    font-size: 30px;
-  }
-}
-
 h1 {
   text-align: center;
   font-weight: 100;
